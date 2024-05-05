@@ -1,0 +1,16 @@
+{
+  "name": "auto-sel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:test1": "node test1.js",
+    "run:test2": "node test2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.20.0"
+  }
+}
